@@ -137,6 +137,22 @@ That's why I like to make things that actually run.
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=just-userhere&theme=github-compact&bg_color=0f172a&color=38bdf8&line=38bdf8&point=e2e8f0&area=true&hide_border=true" alt="contribution graph"/>
 </p>
 
+### 👻 Contribution Games
+
+<!-- pacman -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/just-userhere/just-userhere/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/just-userhere/just-userhere/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/just-userhere/just-userhere/output/pacman-contribution-graph.svg">
+</picture>
+
+<!-- snake -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/just-userhere/just-userhere/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/just-userhere/just-userhere/output/github-snake.svg">
+  <img alt="snake contribution graph" src="https://raw.githubusercontent.com/just-userhere/just-userhere/output/github-snake.svg">
+</picture>
+
 </div>
 
 ## 🔥 Featured Projects
