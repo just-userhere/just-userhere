@@ -1,192 +1,155 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e1b4b&height=220&section=header&text=just-userhere&fontSize=65&fontColor=e2e8f0&desc=BUILD%20%E2%80%A2%20EXPLORE%20%E2%80%A2%20LEARN%20%E2%80%A2%20SHARE&descSize=16&descAlignY=62&fontAlignY=38&animation=fadeIn" alt="just-userhere header"/>
+# Welcome to [just-userhere's](https://github.com/just-userhere) profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" alt="wave">
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Open+Source+Developer;Builder+%26+Experimenter;Python+%E2%80%A2+Web+%E2%80%A2+AI+%E2%80%A2+Data;Learn+%E2%86%92+Build+%E2%86%92+Share+%E2%86%92+Repeat" alt="typing intro"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,30:1e1b4b,60:0e7490,100:38bdf8&height=170&section=header&text=just-userhere&fontSize=58&fontColor=e2e8f0&animation=twinkling&fontAlignY=42&fontAlign=50&desc=Open%20Source%20Developer%20%7C%20Build%20%E2%80%A2%20Explore%20%E2%80%A2%20Learn%20%E2%80%A2%20Share&descSize=15&descAlignY=68&descColor=bae6fd"/>
+
+</div>
+<p>
+  <a href="https://github.com/just-userhere?tab=followers"><img src="https://img.shields.io/github/followers/just-userhere?label=Followers&style=flat&color=38bdf8" height="28" alt="followers"/></a>
+  <a href="https://github.com/just-userhere?tab=repositories"><img src="https://img.shields.io/badge/Repositories-public-0f172a?style=flat&logo=github&logoColor=38bdf8&labelColor=0f172a&color=38bdf8" height="28" alt="repositories"/></a>
+  <img src="https://komarev.com/ghpvc/?username=just-userhere&label=Profile%20views&color=38bdf8&style=flat" height="28" alt="profile views"/>
+  <img src="https://img.shields.io/badge/focus-projects_over_claims-0f172a?logo=github&logoColor=38bdf8&labelColor=0f172a&color=38bdf8" height="28" alt="projects over claims"/>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=just-userhere&label=Profile%20views&color=38bdf8&style=flat" alt="profile views"/>
-  <img src="https://img.shields.io/github/followers/just-userhere?label=Followers&style=flat&color=38bdf8" alt="followers"/>
-  <img src="https://img.shields.io/badge/focus-projects_over_claims-0f172a?logo=github&logoColor=38bdf8&labelColor=0f172a&color=38bdf8" alt="projects over claims"/>
+A developer account where **projects, experiments, open source, technology and learning come together**. I build small systems, automate ideas, explore AI / data / web, and learn by shipping in public.
+
+As a builder, I enjoy turning curiosity into working code — obsessing over the details, debugging in the open, and sharing what I learn along the way.
+
+That's why I like to make things that actually run.
+
+<img align="right" alt="coding GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" height="270" />
+
+### Talking about this account:
+
+- 👨‍💻 I'm an **Open Source Developer**
+- 🌐 I build **web experiments & Python automation**
+- 🤖 I'm exploring **AI / data / cloud**, one project at a time
+- 🐙 I believe in **building in public** and learning from real codebases
+- 📡 I follow & share **hackathons, internships, certs & dev programs** as a community interest
+- 👯 Open to **collaboration** on learning-friendly Python / web / automation ideas
+- 🧠 Philosophy: **learn → build → experiment → debug → improve → share**
+
+---
+
+## 🛠️ My Favourite tools
+
+> Only what my repos actually use. Anything marked *exploring* is something I'm learning, not claiming.
+
+### 👨‍💻 Programming languages
+
+<p>
+    <a href="https://github.com/just-userhere/Engine"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+    <a href="https://github.com/just-userhere/location-finder"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+    <a href="https://github.com/just-userhere/GPTCODE"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
+    <a href="https://github.com/just-userhere/insta"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
+    <a href="https://github.com/just-userhere/Output"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
+    <a href="https://github.com/just-userhere/codejourney365"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
 </p>
 
----
+### 🧰 Automation & testing
 
-### 👋 Hey, I'm `just-userhere`
-
-A developer account where **projects, experiments, open source, technology and learning come together**.
-I build small systems, automate ideas, explore AI / data / web, and learn by shipping in public.
-
-<p align="center">
-  <b>👨‍💻 Developer &nbsp;•&nbsp; 🌐 Builder &nbsp;•&nbsp; 🐙 Open Source Explorer &nbsp;•&nbsp; 🤖 AI / Data Explorer &nbsp;•&nbsp; 📡 Tech & Community</b>
+<p>
+    <a href="https://github.com/just-userhere/Engine"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?logo=githubactions&logoColor=white"></a>
+    <a href="https://github.com/just-userhere/Engine"><img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC.svg?logo=pytest&logoColor=white"></a>
+    <a href="https://github.com/just-userhere/Engine"><img alt="YAML" src="https://img.shields.io/badge/YAML-CB171E.svg?logo=yaml&logoColor=white"></a>
+    <a href="https://github.com/just-userhere/Engine"><img alt="JSON" src="https://img.shields.io/badge/JSON-000000.svg?logo=json&logoColor=white"></a>
 </p>
 
-<p align="center">
-  <b>BUILD → EXPLORE → LEARN → SHARE → REPEAT</b>
+### 🗄️ Data & environments
+
+<p>
+    <a href="https://github.com/just-userhere/codejourney365"><img alt="SQL" src="https://img.shields.io/badge/SQLite-003B57.svg?logo=sqlite&logoColor=white"></a>
+    <a href="https://github.com/just-userhere/openenv-ai-workplace-simulator"><img alt="Docker (experimental)" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white"></a>
+    <a href="https://github.com/just-userhere/Engine"><img alt="REST / RSS APIs" src="https://img.shields.io/badge/REST%20APIs-009688.svg?logo=fastapi&logoColor=white"></a>
 </p>
 
----
+### 💻 Software and tools
 
-## 🚀 What I'm Exploring
-
-| Area | Focus right now |
-|------|-----------------|
-| 🌐 Web Development | HTML, CSS, JavaScript — small frontend experiments |
-| 🐍 Python | Automation pipelines, scripts, tests (`pytest`, `pyyaml`, stdlib) |
-| ⚡ JavaScript | DOM interaction, small browser-side logic |
-| 🤖 AI & Machine Learning | *Exploring* — agent evaluation environments, LLM-assisted workflows |
-| 📊 Data & Analytics | *Exploring* — RSS collection, scoring / ranking, SQL + file-based datasets |
-| ☁️ Cloud & Automation | *Exploring* — GitHub Actions cron jobs, scheduled publishing |
-| 🧩 Automation | Fetch → parse → rank → publish pipelines |
-| 🐙 Open Source | Building in public, learning from other developers |
-| 🚀 Hackathons & Programs | Tracking hackathons, dev programs and open calls as a community interest |
-
-> Labels matter here: **Python / HTML / CSS / JS / GitHub Actions are actually used in my repos.** Everything marked *exploring* is something I'm learning, not claiming.
-
----
-
-## 💻 Tech Stack
-
-### Actually used
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,html,css,git,github,vscode&theme=dark" alt="used stack"/>
+<p>
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white"></a>
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge-Python-3776AB?logo=python&logoColor=white&style=flat" alt="python"/>
-  <img src="https://img.shields.io/badge-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat" alt="javascript"/>
-  <img src="https://img.shields.io/badge-HTML5-E34F26?logo=html5&logoColor=white&style=flat" alt="html"/>
-  <img src="https://img.shields.io/badge-CSS3-1572B6?logo=css3&logoColor=white&style=flat" alt="css"/>
-  <img src="https://img.shields.io/badge-GitHub_Actions-2088FF?logo=githubactions&logoColor=white&style=flat" alt="actions"/>
-  <img src="https://img.shields.io/badge-Pytest-0A9EDC?logo=pytest&logoColor=white&style=flat" alt="pytest"/>
-</p>
+<table align="center">
+    <tr>
+        <td align="center" width="90">
+            <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="55" height="55" />
+            <br>Python
+        </td>
+        <td align="center" width="90">
+            <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="55" height="55" />
+            <br>Javascript
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+            <br>HTML
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+            <br>CSS
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite" />
+            <br>SQLite
+        </td>
+        <td align="center" width="90">
+            <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="55" height="55" />
+            <br>REST API
+        </td>
+        <td align="center" width="90">
+            <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+            <br>Docker*
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+            <br>Git
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+            <br>GitHub
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+            <br>VS Code
+        </td>
+    </tr>
+</table>
+<p align="center"><sub>* Docker appears in one experimental repo — exploring, not claiming.</sub></p>
+<br />
 
-### 🌐 Web Development
+<h2 align="center">Dev Stats Matrix</h2>
+<div align="center">
 
-- HTML + CSS layouts and landing-style pages
-- JavaScript for small interactive behaviour (see `location-finder`)
-- Static sites, forms, single-page experiments
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e1b4b,100:0e7490&height=100&section=header&text=just-userhere&fontSize=42&fontColor=e2e8f0&animation=fadeIn&fontAlignY=55&fontAlign=50"/>
 
-### 📊 Data & AI
-
-- **Used:** Python data handling (RSS parsing with stdlib, YAML config, Markdown report generation, file-based state)
-- **Currently exploring:** pandas / NumPy-style analysis, ML basics, AI-agent task evaluation, SQL practice datasets
-
-### ☁️ Tools & Cloud
-
-- Git, GitHub, VS Code
-- GitHub Actions (scheduled automation, idempotent publishing)
-- **Exploring:** cloud deployment concepts, Dockerfiles (one experimental repo contains a Dockerfile), environment-based config (`.env` patterns)
-
----
-
-## 🔥 Featured Projects
-
-### ⚙️ TechPulse Engine
-
-Automated daily tech-newspaper pipeline — fetches RSS sources, normalizes, deduplicates, scores, ranks and generates a Markdown briefing. Publishes on a GitHub Actions cron.
-
-**Tech:** Python • GitHub Actions • YAML • Pytest
-
-[View Repository →](https://github.com/just-userhere/Engine)
-
----
-
-### 📰 TechPulse Output
-
-The auto-generated archive published by the Engine — one Markdown report per day, organized by month, with category breakdowns.
-
-**Tech:** Markdown (generated) • Automation output
-
-[View Repository →](https://github.com/just-userhere/Output)
-
----
-
-### 🧪 AI Workplace Simulator
-
-Experimental OpenEnv-style environment for testing AI agents on practical tasks like email triage, code review and data cleaning — an exploration of evaluation beyond toy benchmarks.
-
-**Tech:** Python • Dockerfile (experimental)
-
-[View Repository →](https://github.com/just-userhere/openenv-ai-workplace-simulator)
-
----
-
-### 🗺️ CodeJourney365
-
-Learning-automation experiment — a structured 365-day coding-journey setup with Python + SQL tracks, curriculum folders, templates and docs. Early-stage / in-progress.
-
-**Tech:** Python • SQL • Jinja templates
-
-[View Repository →](https://github.com/just-userhere/codejourney365)
-
----
-
-### 📍 location-finder
-
-Small frontend experiment with HTML + JavaScript — a location-oriented page wired to a `script.js` for browser-side logic.
-
-**Tech:** HTML • JavaScript
-
-[View Repository →](https://github.com/just-userhere/location-finder)
-
----
+<div align="center">
 
 <p align="center">
-  <a href="https://github.com/just-userhere?tab=repositories">Explore all repositories →</a>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=just-userhere&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=38bdf8&text_color=e2e8f0&count_private=true" alt="just-userhere stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=just-userhere&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=e2e8f0" alt="top languages"/>
 </p>
 
----
-
-## 🐙 Open Source & Community
-
-- Building in public — experiments, pipelines and notes live here
-- Interested in open-source exploration and learning from real codebases
-- Focused on small, useful automation over big claims
-- Open to collaboration on learning-friendly Python / web / automation ideas
-
----
-
-## 📡 Tech & Community
-
-Beyond code, I follow and share useful developer opportunities as a **community interest** (not an organization):
-
-- 🚀 Hackathons & coding competitions
-- 🎓 Internships & student developer programs
-- 📜 Certifications & learning tracks
-- 🤖 AI opportunities & challenges
-- 🐙 Open-source programs & good-first-issue hunts
-- ☁️ Cloud / dev-tool programs
-
-If it helps students and early developers discover what's next — it's worth sharing.
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=just-userhere&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=38bdf8&text_color=e2e8f0&count_private=true" alt="just-userhere stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=just-userhere&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=e2e8f0" alt="top languages"/>
-</p>
-
----
-
-## 🔥 Contribution Activity
+</div>
+<br/>
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=just-userhere&theme=github-compact&bg_color=0f172a&color=38bdf8&line=38bdf8&point=e2e8f0&area=true&hide_border=true" alt="contribution graph"/>
 </p>
 
----
+</div>
 
-## 🧠 Development Philosophy
+## 🔥 Featured Projects
 
-> Working software beats descriptions. I keep scopes small, automate the boring parts,
-> debug in the open, and let the repos show what's real. Every project is a draft
-> that gets better each iteration — **learn → build → experiment → debug → improve → share.**
+- [⚙️ TechPulse Engine](https://github.com/just-userhere/Engine) — automated daily tech-newspaper pipeline: fetch → parse → rank → publish via GitHub Actions. **Tech:** Python • YAML • Pytest
+- [📰 TechPulse Output](https://github.com/just-userhere/Output) — the auto-generated daily archive published by the Engine. **Tech:** Markdown (generated) • Automation output
+- [🧪 AI Workplace Simulator](https://github.com/just-userhere/openenv-ai-workplace-simulator) — experimental environment for testing AI agents on practical tasks. **Tech:** Python • Dockerfile (experimental)
+- [🗺️ CodeJourney365](https://github.com/just-userhere/codejourney365) — learning-automation experiment with Python + SQL tracks. Early-stage / in-progress. **Tech:** Python • SQL • Jinja
+- [📍 location-finder](https://github.com/just-userhere/location-finder) — small frontend experiment with browser-side logic. **Tech:** HTML • JavaScript
 
----
+<p align="center">
+  <a href="https://github.com/just-userhere?tab=repositories">Explore all repositories →</a>
+</p>
 
 ## 🌱 Currently Learning
 
@@ -194,13 +157,7 @@ If it helps students and early developers discover what's next — it's worth sh
 - ⚡ Building with JavaScript — DOM, events, small apps
 - 📊 Exploring data — scoring / ranking logic, SQL practice, report generation
 - 🤖 Exploring AI — agent workflows, evaluation tasks, LLM-assisted summarization
-- ☁️ Exploring automation & cloud — GitHub Actions scheduling, idempotent publishing, env-based config
+- ☁️ Exploring automation & cloud — scheduled pipelines, idempotent publishing, env-based config
 - 🐙 Practicing open source — README-driven development, changelogs, contributing guides
 
----
-
-<p align="center">
-  <b>Build things. Explore technology. Share opportunities. Keep learning.</b>
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,100:0f172a&height=140&section=footer&animation=fadeIn" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,40:0e7490,70:1e1b4b,100:0f172a&height=150&section=footer&animation=fadeIn&fontColor=e2e8f0" width="100%" alt="footer"/>
