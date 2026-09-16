@@ -17,11 +17,8 @@
   <img src="https://img.shields.io/badge/focus-projects_over_claims-0f172a?logo=github&logoColor=38bdf8&labelColor=0f172a&color=38bdf8" height="28" alt="projects over claims"/>
 </p>
 
-A developer account where **projects, experiments, open source, technology and learning come together**. I build small systems, automate ideas, explore AI / data / web, and learn by shipping in public.
-
-As a builder, I enjoy turning curiosity into working code — obsessing over the details, debugging in the open, and sharing what I learn along the way.
-
-That's why I like to make things that actually run.
+<h1 align="left">Hi 👋, I'm just-userhere</h1>
+<h2 align="left">An anonymous builder account — developer, experimenter and 💙 open-source explorer, learning across software, AI and data while turning ideas into practical projects through technology.</h2>
 
 <img align="right" alt="coding GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" height="270" />
 
@@ -43,41 +40,23 @@ That's why I like to make things that actually run.
 
 > Everything in this group appears in my actual repositories. The **🛰️ learning radar** further down is what I'm studying — not claiming.
 
-### 👨‍💻 Programming languages
+### Languages & Frameworks
 
-<p>
-    <a href="https://github.com/just-userhere/Engine"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-    <a href="https://github.com/just-userhere/location-finder"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="https://github.com/just-userhere/GPTCODE"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-    <a href="https://github.com/just-userhere/insta"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-    <a href="https://github.com/just-userhere/Output"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
-    <a href="https://github.com/just-userhere/codejourney365"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-</p>
+<div align="center">
 
-### 🧰 Automation & testing
+<img src="https://skillicons.dev/icons?i=py,js,html,css,sqlite&theme=dark" alt="languages" />
+<br clear="both">
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&labelColor=1a1b27" alt="SQL" /> <img src="https://img.shields.io/badge/Automation-38BDF8?style=for-the-badge&labelColor=1a1b27" alt="Automation" /> <img src="https://img.shields.io/badge/Web-38BDF8?style=for-the-badge&labelColor=1a1b27" alt="Web" /> <img src="https://img.shields.io/badge/REST_APIs-38BDF8?style=for-the-badge&labelColor=1a1b27" alt="REST APIs" /> <img src="https://img.shields.io/badge/Markdown-38BDF8?style=for-the-badge&labelColor=1a1b27" alt="Markdown" />
 
-<p>
-    <a href="https://github.com/just-userhere/Engine"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?logo=githubactions&logoColor=white"></a>
-    <a href="https://github.com/just-userhere/Engine"><img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC.svg?logo=pytest&logoColor=white"></a>
-    <a href="https://github.com/just-userhere/Engine"><img alt="YAML" src="https://img.shields.io/badge/YAML-CB171E.svg?logo=yaml&logoColor=white"></a>
-    <a href="https://github.com/just-userhere/Engine"><img alt="JSON" src="https://img.shields.io/badge/JSON-000000.svg?logo=json&logoColor=white"></a>
-</p>
+### Tools & Platforms
 
-### 🗄️ Data & environments
+<img src="https://skillicons.dev/icons?i=vscode,git,github,githubactions&theme=dark" alt="tools" />
+<br clear="both">
+<img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&labelColor=1a1b27" alt="Pytest" /> <img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&labelColor=1a1b27" alt="YAML" /> <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&labelColor=1a1b27" alt="JSON" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&labelColor=1a1b27" alt="Docker, experimental" />
 
-<p>
-    <a href="https://github.com/just-userhere/codejourney365"><img alt="SQL" src="https://img.shields.io/badge/SQLite-003B57.svg?logo=sqlite&logoColor=white"></a>
-    <a href="https://github.com/just-userhere/openenv-ai-workplace-simulator"><img alt="Docker (experimental)" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white"></a>
-    <a href="https://github.com/just-userhere/Engine"><img alt="REST / RSS APIs" src="https://img.shields.io/badge/REST%20APIs-009688.svg?logo=fastapi&logoColor=white"></a>
-</p>
+<sub>* Docker appears in one experimental repo — exploring, not claiming.</sub>
 
-### 💻 Software and tools
-
-<p>
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white"></a>
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-</p>
+</div>
 
 ### 🛰️ Learning radar — exploring
 
@@ -142,51 +121,6 @@ That's why I like to make things that actually run.
     <a href="#"><img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098.svg?logo=graphql&logoColor=white"></a>
 </p>
 
-<table align="center">
-    <tr>
-        <td align="center" width="90">
-            <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="55" height="55" />
-            <br>Python
-        </td>
-        <td align="center" width="90">
-            <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="55" height="55" />
-            <br>Javascript
-        </td>
-        <td align="center" width="90">
-            <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-            <br>HTML
-        </td>
-        <td align="center" width="90">
-            <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
-            <br>CSS
-        </td>
-        <td align="center" width="90">
-            <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite" />
-            <br>SQLite
-        </td>
-        <td align="center" width="90">
-            <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="55" height="55" />
-            <br>REST API
-        </td>
-        <td align="center" width="90">
-            <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
-            <br>Docker*
-        </td>
-        <td align="center" width="90">
-            <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-            <br>Git
-        </td>
-        <td align="center" width="90">
-            <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-            <br>GitHub
-        </td>
-        <td align="center" width="90">
-            <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-            <br>VS Code
-        </td>
-    </tr>
-</table>
-<p align="center"><sub>* Docker appears in one experimental repo — exploring, not claiming.</sub></p>
 <br />
 
 <h2 align="center">Dev Stats Matrix</h2>
@@ -195,6 +129,12 @@ That's why I like to make things that actually run.
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e1b4b,100:0e7490&height=100&section=header&text=just-userhere&fontSize=42&fontColor=e2e8f0&animation=fadeIn&fontAlignY=55&fontAlign=50"/>
 
 <div align="center">
+
+## 📈 Contribution Activity
+
+![just-userhere's Streak](https://streak-stats.demolab.com?user=just-userhere&theme=midnight-purple&hide_border=true)
+![just-userhere's Stats](https://github-readme-stats.vercel.app/api?username=just-userhere&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
+![just-userhere's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=just-userhere&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=just-userhere&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=38bdf8&text_color=e2e8f0&count_private=true" alt="just-userhere stats"/>
@@ -226,6 +166,16 @@ That's why I like to make things that actually run.
 
 </div>
 
+---
+
+## 🖥️ GitHub Profile 3D Contrib
+
+<div align="center">
+
+![](./profile-3d-contrib/profile-night-view.svg)
+
+</div>
+
 ## 🔥 Featured Projects
 
 - [⚙️ TechPulse Engine](https://github.com/just-userhere/Engine) — automated daily tech-newspaper pipeline: fetch → parse → rank → publish via GitHub Actions. **Tech:** Python • YAML • Pytest
@@ -246,5 +196,58 @@ That's why I like to make things that actually run.
 - 🤖 Exploring AI — agent workflows, evaluation tasks, LLM-assisted summarization
 - ☁️ Exploring automation & cloud — scheduled pipelines, idempotent publishing, env-based config
 - 🐙 Practicing open source — README-driven development, changelogs, contributing guides
+
+---
+
+## 🎯 Certification Goals
+
+> Learning goals I'm working toward — not earned certificates.
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Cloud_Fundamentals-Goal-38BDF8?style=for-the-badge&labelColor=1a1b27" alt="Cloud goal" /> <img src="https://img.shields.io/badge/AI_Fundamentals-Goal-38BDF8?style=for-the-badge&labelColor=1a1b27" alt="AI goal" /> <img src="https://img.shields.io/badge/Data_Fundamentals-Goal-38BDF8?style=for-the-badge&labelColor=1a1b27" alt="Data goal" />
+
+</div>
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+<a href="https://github.com/just-userhere">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" width="100%" alt="GitHub"/>
+</a>
+<br>
+<sub>Open Source</sub>
+</td>
+<td align="center" width="50%">
+<a href="https://github.com/just-userhere?tab=repositories">
+<img src="https://img.shields.io/badge/Projects-Explore-38BDF8?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" width="100%" alt="Projects"/>
+</a>
+<br>
+<sub>Builds & Experiments</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 *"Build things. Explore technology. Share opportunities. Keep learning."*
+
+![Profile Views](https://komarev.com/ghpvc/?username=just-userhere&color=38BDF8&style=for-the-badge&label=PROFILE+VIEWS)
+![GitHub Followers](https://img.shields.io/github/followers/just-userhere?style=for-the-badge&color=38BDF8&labelColor=1a1b27)
+![GitHub Stars](https://img.shields.io/github/stars/just-userhere?style=for-the-badge&color=38BDF8&labelColor=1a1b27)
+
+<sub>⭐️ From just-userhere with 💙</sub>
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,40:0e7490,70:1e1b4b,100:0f172a&height=150&section=footer&animation=fadeIn&fontColor=e2e8f0" width="100%" alt="footer"/>
