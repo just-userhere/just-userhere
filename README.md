@@ -4,6 +4,12 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,30:1e1b4b,60:0e7490,100:38bdf8&height=170&section=header&text=just-userhere&fontSize=58&fontColor=e2e8f0&animation=twinkling&fontAlignY=42&fontAlign=50&desc=Open%20Source%20Developer%20%7C%20Build%20%E2%80%A2%20Explore%20%E2%80%A2%20Learn%20%E2%80%A2%20Share&descSize=15&descAlignY=68&descColor=bae6fd"/>
 
 </div>
+
+<div align="center">
+
+<img width="100%" src="https://raw.githubusercontent.com/DIMFLIX/DIMFLIX/main/assets/main.gif" alt="developer banner"/>
+
+</div>
 <p>
   <a href="https://github.com/just-userhere?tab=followers"><img src="https://img.shields.io/github/followers/just-userhere?label=Followers&style=flat&color=38bdf8" height="28" alt="followers"/></a>
   <a href="https://github.com/just-userhere?tab=repositories"><img src="https://img.shields.io/badge/Repositories-public-0f172a?style=flat&logo=github&logoColor=38bdf8&labelColor=0f172a&color=38bdf8" height="28" alt="repositories"/></a>
