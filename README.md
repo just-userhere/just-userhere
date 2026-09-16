@@ -33,7 +33,9 @@ That's why I like to make things that actually run.
 
 ## 🛠️ My Favourite tools
 
-> Only what my repos actually use. Anything marked *exploring* is something I'm learning, not claiming.
+### ✅ Proven in my repos
+
+> Everything in this group appears in my actual repositories. The **🛰️ learning radar** further down is what I'm studying — not claiming.
 
 ### 👨‍💻 Programming languages
 
@@ -69,6 +71,69 @@ That's why I like to make things that actually run.
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+</p>
+
+### 🛰️ Learning radar — exploring
+
+> Technologies I'm studying or plan to build with. Listed as interests, not experience.
+
+#### 🌐 Web development
+
+<p>
+    <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
+    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
+    <a href="#"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000.svg?logo=nextdotjs&logoColor=white"></a>
+    <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=nodedotjs&logoColor=white"></a>
+    <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
+    <a href="#"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38BDF8.svg?logo=tailwind-css&logoColor=white"></a>
+    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
+    <a href="#"><img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D.svg?logo=vuedotjs&logoColor=white"></a>
+    <a href="#"><img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF.svg?logo=vite&logoColor=white"></a>
+    <a href="#"><img alt="npm" src="https://img.shields.io/badge/npm-CB3837.svg?logo=npm&logoColor=white"></a>
+</p>
+
+#### 🤖 AI & data
+
+<p>
+    <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=tensorflow&logoColor=white"></a>
+    <a href="#"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?logo=pytorch&logoColor=white"></a>
+    <a href="#"><img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E.svg?logo=scikit-learn&logoColor=white"></a>
+    <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras-D00000.svg?logo=keras&logoColor=white"></a>
+    <a href="#"><img alt="Hugging Face" src="https://img.shields.io/badge/Hugging_Face-FFD21E.svg?logo=huggingface&logoColor=black"></a>
+    <a href="#"><img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991.svg?logo=openai&logoColor=white"></a>
+    <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
+    <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243.svg?logo=numpy&logoColor=white"></a>
+    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=jupyter&logoColor=white"></a>
+    <a href="#"><img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-44A833.svg?logo=anaconda&logoColor=white"></a>
+</p>
+
+#### 🗄️ Databases & cloud
+
+<p>
+    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white"></a>
+    <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
+    <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white"></a>
+    <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-DD2C00.svg?logo=firebase&logoColor=white"></a>
+    <a href="#"><img alt="Supabase" src="https://img.shields.io/badge/Supabase-3FCF8E.svg?logo=supabase&logoColor=black"></a>
+    <a href="#"><img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D.svg?logo=redis&logoColor=white"></a>
+    <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E.svg?logo=amazonaws&logoColor=white"></a>
+    <a href="#"><img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4.svg?logo=googlecloud&logoColor=white"></a>
+    <a href="#"><img alt="Azure" src="https://img.shields.io/badge/Azure-0078D4.svg?logo=microsoftazure&logoColor=white"></a>
+    <a href="#"><img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5.svg?logo=kubernetes&logoColor=white"></a>
+    <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
+    <a href="#"><img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7.svg?logo=netlify&logoColor=white"></a>
+</p>
+
+#### 🧰 More tools on the radar
+
+<p>
+    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?logo=postman&logoColor=white"></a>
+    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=black"></a>
+    <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25.svg?logo=gnu-bash&logoColor=white"></a>
+    <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E.svg?logo=figma&logoColor=white"></a>
+    <a href="#"><img alt="Yarn" src="https://img.shields.io/badge/Yarn-2C8EBB.svg?logo=yarn&logoColor=white"></a>
+    <a href="#"><img alt="pnpm" src="https://img.shields.io/badge/pnpm-F69220.svg?logo=pnpm&logoColor=white"></a>
+    <a href="#"><img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098.svg?logo=graphql&logoColor=white"></a>
 </p>
 
 <table align="center">
