@@ -1,4 +1,4 @@
-# Welcome to [just-userhere's](https://github.com/just-userhere) profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" alt="wave">
+# Hello, Unknown <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" alt="wave"> — Welcome to [Dear Unknown's](https://github.com/just-userhere) profile. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" alt="wave">
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,30:1e1b4b,60:0e7490,100:38bdf8&height=170&section=header&text=just-userhere&fontSize=58&fontColor=e2e8f0&animation=twinkling&fontAlignY=42&fontAlign=50&desc=Open%20Source%20Developer%20%7C%20Build%20%E2%80%A2%20Explore%20%E2%80%A2%20Learn%20%E2%80%A2%20Share&descSize=15&descAlignY=68&descColor=bae6fd"/>
@@ -176,17 +176,6 @@
 
 </div>
 
-## 🔥 Featured Projects
-
-- [⚙️ TechPulse Engine](https://github.com/just-userhere/Engine) — automated daily tech-newspaper pipeline: fetch → parse → rank → publish via GitHub Actions. **Tech:** Python • YAML • Pytest
-- [📰 TechPulse Output](https://github.com/just-userhere/Output) — the auto-generated daily archive published by the Engine. **Tech:** Markdown (generated) • Automation output
-- [🧪 AI Workplace Simulator](https://github.com/just-userhere/openenv-ai-workplace-simulator) — experimental environment for testing AI agents on practical tasks. **Tech:** Python • Dockerfile (experimental)
-- [🗺️ CodeJourney365](https://github.com/just-userhere/codejourney365) — learning-automation experiment with Python + SQL tracks. Early-stage / in-progress. **Tech:** Python • SQL • Jinja
-- [📍 location-finder](https://github.com/just-userhere/location-finder) — small frontend experiment with browser-side logic. **Tech:** HTML • JavaScript
-
-<p align="center">
-  <a href="https://github.com/just-userhere?tab=repositories">Explore all repositories →</a>
-</p>
 
 ## 🌱 Currently Learning
 
